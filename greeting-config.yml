@@ -5,5 +5,5 @@ management:
   security:
     enabled: false
 logging.level.io.pivotal: DEBUG
-greeting.displayFortune: false
+greeting.displayFortune: true
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
