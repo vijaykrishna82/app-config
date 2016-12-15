@@ -1,1 +1,2 @@
 quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+logging.level.io.pivotal: WARN
